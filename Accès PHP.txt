@@ -1,0 +1,4 @@
+Accéder à PHPMYADMIN : PHP
+|
+--> Ouvrir 'Xampp.exe' et lancer "Apache" et "MySQL" puis "Admin"
+adresse locale PHP : http://localhost/supports-poissy/PHP/cours_php/nomdufichier.php
